@@ -1,0 +1,4677 @@
+{
+ "source": "Google Fonts (fetched via google-webfonts-helper)",
+ "total_files": 393,
+ "unique_families": 96,
+ "categories": {
+  "Arabic": {
+   "count": 20,
+   "fonts": [
+    {
+     "file": "amiri-v30-arabic_latin_latin-ext-700.ttf",
+     "family": "Amiri",
+     "slug": "amiri",
+     "subsets": [
+      "arabic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "700",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "amiri-v30-arabic_latin_latin-ext-700italic.ttf",
+     "family": "Amiri",
+     "slug": "amiri",
+     "subsets": [
+      "arabic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "700italic",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "amiri-v30-arabic_latin_latin-ext-italic.ttf",
+     "family": "Amiri",
+     "slug": "amiri",
+     "subsets": [
+      "arabic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "italic",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "amiri-v30-arabic_latin_latin-ext-regular.ttf",
+     "family": "Amiri",
+     "slug": "amiri",
+     "subsets": [
+      "arabic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "regular",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "cairo-v31-arabic_latin_latin-ext-200.ttf",
+     "family": "Cairo ExtraLight",
+     "slug": "cairo",
+     "subsets": [
+      "arabic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "200",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "cairo-v31-arabic_latin_latin-ext-300.ttf",
+     "family": "Cairo Light",
+     "slug": "cairo",
+     "subsets": [
+      "arabic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "300",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "cairo-v31-arabic_latin_latin-ext-500.ttf",
+     "family": "Cairo Medium",
+     "slug": "cairo",
+     "subsets": [
+      "arabic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "500",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "cairo-v31-arabic_latin_latin-ext-700.ttf",
+     "family": "Cairo",
+     "slug": "cairo",
+     "subsets": [
+      "arabic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "700",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "cairo-v31-arabic_latin_latin-ext-800.ttf",
+     "family": "Cairo ExtraBold",
+     "slug": "cairo",
+     "subsets": [
+      "arabic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "800",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "cairo-v31-arabic_latin_latin-ext-900.ttf",
+     "family": "Cairo Black",
+     "slug": "cairo",
+     "subsets": [
+      "arabic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "900",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "cairo-v31-arabic_latin_latin-ext-regular.ttf",
+     "family": "Cairo",
+     "slug": "cairo",
+     "subsets": [
+      "arabic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "regular",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "noto-sans-arabic-v33-arabic_latin_latin-ext-100.ttf",
+     "family": "Noto Sans Arabic Thin",
+     "slug": "noto-sans-arabic",
+     "subsets": [
+      "arabic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "100",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "noto-sans-arabic-v33-arabic_latin_latin-ext-200.ttf",
+     "family": "Noto Sans Arabic ExtraLight",
+     "slug": "noto-sans-arabic",
+     "subsets": [
+      "arabic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "200",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "noto-sans-arabic-v33-arabic_latin_latin-ext-300.ttf",
+     "family": "Noto Sans Arabic Light",
+     "slug": "noto-sans-arabic",
+     "subsets": [
+      "arabic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "300",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "noto-sans-arabic-v33-arabic_latin_latin-ext-500.ttf",
+     "family": "Noto Sans Arabic Medium",
+     "slug": "noto-sans-arabic",
+     "subsets": [
+      "arabic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "500",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "noto-sans-arabic-v33-arabic_latin_latin-ext-600.ttf",
+     "family": "Noto Sans Arabic SemiBold",
+     "slug": "noto-sans-arabic",
+     "subsets": [
+      "arabic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "600",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "noto-sans-arabic-v33-arabic_latin_latin-ext-700.ttf",
+     "family": "Noto Sans Arabic",
+     "slug": "noto-sans-arabic",
+     "subsets": [
+      "arabic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "700",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "noto-sans-arabic-v33-arabic_latin_latin-ext-800.ttf",
+     "family": "Noto Sans Arabic ExtraBold",
+     "slug": "noto-sans-arabic",
+     "subsets": [
+      "arabic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "800",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "noto-sans-arabic-v33-arabic_latin_latin-ext-900.ttf",
+     "family": "Noto Sans Arabic Black",
+     "slug": "noto-sans-arabic",
+     "subsets": [
+      "arabic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "900",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "noto-sans-arabic-v33-arabic_latin_latin-ext-regular.ttf",
+     "family": "Noto Sans Arabic",
+     "slug": "noto-sans-arabic",
+     "subsets": [
+      "arabic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "regular",
+     "license_url": "https://scripts.sil.org/OFL"
+    }
+   ]
+  },
+  "Chinese_Simplified": {
+   "count": 24,
+   "fonts": [
+    {
+     "file": "liu-jian-mao-cao-v24-chinese-simplified_latin-regular.ttf",
+     "family": "Liu Jian Mao Cao",
+     "slug": "liu-jian-mao-cao",
+     "subsets": [
+      "chinese-simplified",
+      "latin"
+     ],
+     "variant": "regular",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "long-cang-v21-chinese-simplified_latin-regular.ttf",
+     "family": "Long Cang",
+     "slug": "long-cang",
+     "subsets": [
+      "chinese-simplified",
+      "latin"
+     ],
+     "variant": "regular",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "ma-shan-zheng-v14-chinese-simplified_latin-regular.ttf",
+     "family": "Ma Shan Zheng",
+     "slug": "ma-shan-zheng",
+     "subsets": [
+      "chinese-simplified",
+      "latin"
+     ],
+     "variant": "regular",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "noto-sans-sc-v39-chinese-simplified_cyrillic_latin_latin-ext-100.ttf",
+     "family": "Noto Sans SC Thin",
+     "slug": "noto-sans-sc",
+     "subsets": [
+      "chinese-simplified",
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "100",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "noto-sans-sc-v39-chinese-simplified_cyrillic_latin_latin-ext-200.ttf",
+     "family": "Noto Sans SC ExtraLight",
+     "slug": "noto-sans-sc",
+     "subsets": [
+      "chinese-simplified",
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "200",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "noto-sans-sc-v39-chinese-simplified_cyrillic_latin_latin-ext-300.ttf",
+     "family": "Noto Sans SC Light",
+     "slug": "noto-sans-sc",
+     "subsets": [
+      "chinese-simplified",
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "300",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "noto-sans-sc-v39-chinese-simplified_cyrillic_latin_latin-ext-500.ttf",
+     "family": "Noto Sans SC Medium",
+     "slug": "noto-sans-sc",
+     "subsets": [
+      "chinese-simplified",
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "500",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "noto-sans-sc-v39-chinese-simplified_cyrillic_latin_latin-ext-600.ttf",
+     "family": "Noto Sans SC SemiBold",
+     "slug": "noto-sans-sc",
+     "subsets": [
+      "chinese-simplified",
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "600",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "noto-sans-sc-v39-chinese-simplified_cyrillic_latin_latin-ext-700.ttf",
+     "family": "Noto Sans SC",
+     "slug": "noto-sans-sc",
+     "subsets": [
+      "chinese-simplified",
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "700",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "noto-sans-sc-v39-chinese-simplified_cyrillic_latin_latin-ext-800.ttf",
+     "family": "Noto Sans SC ExtraBold",
+     "slug": "noto-sans-sc",
+     "subsets": [
+      "chinese-simplified",
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "800",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "noto-sans-sc-v39-chinese-simplified_cyrillic_latin_latin-ext-900.ttf",
+     "family": "Noto Sans SC Black",
+     "slug": "noto-sans-sc",
+     "subsets": [
+      "chinese-simplified",
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "900",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "noto-sans-sc-v39-chinese-simplified_cyrillic_latin_latin-ext-regular.ttf",
+     "family": "Noto Sans SC",
+     "slug": "noto-sans-sc",
+     "subsets": [
+      "chinese-simplified",
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "regular",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "noto-serif-sc-v34-chinese-simplified_cyrillic_latin_latin-ext-200.ttf",
+     "family": "Noto Serif SC ExtraLight",
+     "slug": "noto-serif-sc",
+     "subsets": [
+      "chinese-simplified",
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "200",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "noto-serif-sc-v34-chinese-simplified_cyrillic_latin_latin-ext-300.ttf",
+     "family": "Noto Serif SC Light",
+     "slug": "noto-serif-sc",
+     "subsets": [
+      "chinese-simplified",
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "300",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "noto-serif-sc-v34-chinese-simplified_cyrillic_latin_latin-ext-500.ttf",
+     "family": "Noto Serif SC Medium",
+     "slug": "noto-serif-sc",
+     "subsets": [
+      "chinese-simplified",
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "500",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "noto-serif-sc-v34-chinese-simplified_cyrillic_latin_latin-ext-600.ttf",
+     "family": "Noto Serif SC SemiBold",
+     "slug": "noto-serif-sc",
+     "subsets": [
+      "chinese-simplified",
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "600",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "noto-serif-sc-v34-chinese-simplified_cyrillic_latin_latin-ext-700.ttf",
+     "family": "Noto Serif SC",
+     "slug": "noto-serif-sc",
+     "subsets": [
+      "chinese-simplified",
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "700",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "noto-serif-sc-v34-chinese-simplified_cyrillic_latin_latin-ext-800.ttf",
+     "family": "Noto Serif SC ExtraBold",
+     "slug": "noto-serif-sc",
+     "subsets": [
+      "chinese-simplified",
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "800",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "noto-serif-sc-v34-chinese-simplified_cyrillic_latin_latin-ext-900.ttf",
+     "family": "Noto Serif SC Black",
+     "slug": "noto-serif-sc",
+     "subsets": [
+      "chinese-simplified",
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "900",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "noto-serif-sc-v34-chinese-simplified_cyrillic_latin_latin-ext-regular.ttf",
+     "family": "Noto Serif SC",
+     "slug": "noto-serif-sc",
+     "subsets": [
+      "chinese-simplified",
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "regular",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "zcool-kuaile-v20-chinese-simplified_latin-regular.ttf",
+     "family": "ZCOOL KuaiLe",
+     "slug": "zcool-kuaile",
+     "subsets": [
+      "chinese-simplified",
+      "latin"
+     ],
+     "variant": "regular",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "zcool-qingke-huangyou-v16-chinese-simplified_latin-regular.ttf",
+     "family": "ZCOOL QingKe HuangYou",
+     "slug": "zcool-qingke-huangyou",
+     "subsets": [
+      "chinese-simplified",
+      "latin"
+     ],
+     "variant": "regular",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "zcool-xiaowei-v15-chinese-simplified_latin-regular.ttf",
+     "family": "ZCOOL XiaoWei",
+     "slug": "zcool-xiaowei",
+     "subsets": [
+      "chinese-simplified",
+      "latin"
+     ],
+     "variant": "regular",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "zhi-mang-xing-v19-chinese-simplified_latin-regular.ttf",
+     "family": "Zhi Mang Xing",
+     "slug": "zhi-mang-xing",
+     "subsets": [
+      "chinese-simplified",
+      "latin"
+     ],
+     "variant": "regular",
+     "license_url": "http://scripts.sil.org/OFL"
+    }
+   ]
+  },
+  "Code_Monospace": {
+   "count": 67,
+   "fonts": [
+    {
+     "file": "fira-code-v27-cyrillic_latin_latin-ext-300.ttf",
+     "family": "Fira Code Light",
+     "slug": "fira-code",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "300",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "fira-code-v27-cyrillic_latin_latin-ext-500.ttf",
+     "family": "Fira Code Medium",
+     "slug": "fira-code",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "500",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "fira-code-v27-cyrillic_latin_latin-ext-600.ttf",
+     "family": "Fira Code SemiBold",
+     "slug": "fira-code",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "600",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "fira-code-v27-cyrillic_latin_latin-ext-700.ttf",
+     "family": "Fira Code",
+     "slug": "fira-code",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "700",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "fira-code-v27-cyrillic_latin_latin-ext-regular.ttf",
+     "family": "Fira Code",
+     "slug": "fira-code",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "regular",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "inconsolata-v37-latin_latin-ext-200.ttf",
+     "family": "Inconsolata ExtraLight",
+     "slug": "inconsolata",
+     "subsets": [
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "200",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "inconsolata-v37-latin_latin-ext-300.ttf",
+     "family": "Inconsolata Light",
+     "slug": "inconsolata",
+     "subsets": [
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "300",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "inconsolata-v37-latin_latin-ext-500.ttf",
+     "family": "Inconsolata Medium",
+     "slug": "inconsolata",
+     "subsets": [
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "500",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "inconsolata-v37-latin_latin-ext-600.ttf",
+     "family": "Inconsolata SemiBold",
+     "slug": "inconsolata",
+     "subsets": [
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "600",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "inconsolata-v37-latin_latin-ext-700.ttf",
+     "family": "Inconsolata",
+     "slug": "inconsolata",
+     "subsets": [
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "700",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "inconsolata-v37-latin_latin-ext-800.ttf",
+     "family": "Inconsolata ExtraBold",
+     "slug": "inconsolata",
+     "subsets": [
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "800",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "inconsolata-v37-latin_latin-ext-900.ttf",
+     "family": "Inconsolata Black",
+     "slug": "inconsolata",
+     "subsets": [
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "900",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "inconsolata-v37-latin_latin-ext-regular.ttf",
+     "family": "Inconsolata",
+     "slug": "inconsolata",
+     "subsets": [
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "regular",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "jetbrains-mono-v24-cyrillic_latin_latin-ext-100.ttf",
+     "family": "JetBrains Mono Thin",
+     "slug": "jetbrains-mono",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "100",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "jetbrains-mono-v24-cyrillic_latin_latin-ext-100italic.ttf",
+     "family": "JetBrains Mono Thin",
+     "slug": "jetbrains-mono",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "100italic",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "jetbrains-mono-v24-cyrillic_latin_latin-ext-200.ttf",
+     "family": "JetBrains Mono ExtraLight",
+     "slug": "jetbrains-mono",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "200",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "jetbrains-mono-v24-cyrillic_latin_latin-ext-200italic.ttf",
+     "family": "JetBrains Mono ExtraLight",
+     "slug": "jetbrains-mono",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "200italic",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "jetbrains-mono-v24-cyrillic_latin_latin-ext-300.ttf",
+     "family": "JetBrains Mono Light",
+     "slug": "jetbrains-mono",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "300",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "jetbrains-mono-v24-cyrillic_latin_latin-ext-300italic.ttf",
+     "family": "JetBrains Mono Light",
+     "slug": "jetbrains-mono",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "300italic",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "jetbrains-mono-v24-cyrillic_latin_latin-ext-500.ttf",
+     "family": "JetBrains Mono Medium",
+     "slug": "jetbrains-mono",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "500",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "jetbrains-mono-v24-cyrillic_latin_latin-ext-500italic.ttf",
+     "family": "JetBrains Mono Medium",
+     "slug": "jetbrains-mono",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "500italic",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "jetbrains-mono-v24-cyrillic_latin_latin-ext-600.ttf",
+     "family": "JetBrains Mono SemiBold",
+     "slug": "jetbrains-mono",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "600",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "jetbrains-mono-v24-cyrillic_latin_latin-ext-600italic.ttf",
+     "family": "JetBrains Mono SemiBold",
+     "slug": "jetbrains-mono",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "600italic",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "jetbrains-mono-v24-cyrillic_latin_latin-ext-700.ttf",
+     "family": "JetBrains Mono",
+     "slug": "jetbrains-mono",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "700",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "jetbrains-mono-v24-cyrillic_latin_latin-ext-700italic.ttf",
+     "family": "JetBrains Mono",
+     "slug": "jetbrains-mono",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "700italic",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "jetbrains-mono-v24-cyrillic_latin_latin-ext-800.ttf",
+     "family": "JetBrains Mono ExtraBold",
+     "slug": "jetbrains-mono",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "800",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "jetbrains-mono-v24-cyrillic_latin_latin-ext-800italic.ttf",
+     "family": "JetBrains Mono ExtraBold",
+     "slug": "jetbrains-mono",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "800italic",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "jetbrains-mono-v24-cyrillic_latin_latin-ext-italic.ttf",
+     "family": "JetBrains Mono",
+     "slug": "jetbrains-mono",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "italic",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "jetbrains-mono-v24-cyrillic_latin_latin-ext-regular.ttf",
+     "family": "JetBrains Mono",
+     "slug": "jetbrains-mono",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "regular",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "roboto-mono-v31-cyrillic_latin_latin-ext-100.ttf",
+     "family": "Roboto Mono Thin",
+     "slug": "roboto-mono",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "100",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "roboto-mono-v31-cyrillic_latin_latin-ext-100italic.ttf",
+     "family": "Roboto Mono Thin",
+     "slug": "roboto-mono",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "100italic",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "roboto-mono-v31-cyrillic_latin_latin-ext-200.ttf",
+     "family": "Roboto Mono ExtraLight",
+     "slug": "roboto-mono",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "200",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "roboto-mono-v31-cyrillic_latin_latin-ext-200italic.ttf",
+     "family": "Roboto Mono ExtraLight",
+     "slug": "roboto-mono",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "200italic",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "roboto-mono-v31-cyrillic_latin_latin-ext-300.ttf",
+     "family": "Roboto Mono Light",
+     "slug": "roboto-mono",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "300",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "roboto-mono-v31-cyrillic_latin_latin-ext-300italic.ttf",
+     "family": "Roboto Mono Light",
+     "slug": "roboto-mono",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "300italic",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "roboto-mono-v31-cyrillic_latin_latin-ext-500.ttf",
+     "family": "Roboto Mono Medium",
+     "slug": "roboto-mono",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "500",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "roboto-mono-v31-cyrillic_latin_latin-ext-500italic.ttf",
+     "family": "Roboto Mono Medium",
+     "slug": "roboto-mono",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "500italic",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "roboto-mono-v31-cyrillic_latin_latin-ext-600.ttf",
+     "family": "Roboto Mono SemiBold",
+     "slug": "roboto-mono",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "600",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "roboto-mono-v31-cyrillic_latin_latin-ext-600italic.ttf",
+     "family": "Roboto Mono SemiBold",
+     "slug": "roboto-mono",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "600italic",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "roboto-mono-v31-cyrillic_latin_latin-ext-700.ttf",
+     "family": "Roboto Mono",
+     "slug": "roboto-mono",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "700",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "roboto-mono-v31-cyrillic_latin_latin-ext-700italic.ttf",
+     "family": "Roboto Mono",
+     "slug": "roboto-mono",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "700italic",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "roboto-mono-v31-cyrillic_latin_latin-ext-italic.ttf",
+     "family": "Roboto Mono",
+     "slug": "roboto-mono",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "italic",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "roboto-mono-v31-cyrillic_latin_latin-ext-regular.ttf",
+     "family": "Roboto Mono",
+     "slug": "roboto-mono",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "regular",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "source-code-pro-v31-cyrillic_latin_latin-ext-200.ttf",
+     "family": "Source Code Pro ExtraLight",
+     "slug": "source-code-pro",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "200",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "source-code-pro-v31-cyrillic_latin_latin-ext-200italic.ttf",
+     "family": "Source Code Pro ExtraLight",
+     "slug": "source-code-pro",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "200italic",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "source-code-pro-v31-cyrillic_latin_latin-ext-300.ttf",
+     "family": "Source Code Pro Light",
+     "slug": "source-code-pro",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "300",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "source-code-pro-v31-cyrillic_latin_latin-ext-300italic.ttf",
+     "family": "Source Code Pro Light",
+     "slug": "source-code-pro",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "300italic",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "source-code-pro-v31-cyrillic_latin_latin-ext-500.ttf",
+     "family": "Source Code Pro Medium",
+     "slug": "source-code-pro",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "500",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "source-code-pro-v31-cyrillic_latin_latin-ext-500italic.ttf",
+     "family": "Source Code Pro Medium",
+     "slug": "source-code-pro",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "500italic",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "source-code-pro-v31-cyrillic_latin_latin-ext-600.ttf",
+     "family": "Source Code Pro SemiBold",
+     "slug": "source-code-pro",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "600",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "source-code-pro-v31-cyrillic_latin_latin-ext-600italic.ttf",
+     "family": "Source Code Pro SemiBold",
+     "slug": "source-code-pro",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "600italic",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "source-code-pro-v31-cyrillic_latin_latin-ext-700.ttf",
+     "family": "Source Code Pro",
+     "slug": "source-code-pro",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "700",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "source-code-pro-v31-cyrillic_latin_latin-ext-700italic.ttf",
+     "family": "Source Code Pro",
+     "slug": "source-code-pro",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "700italic",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "source-code-pro-v31-cyrillic_latin_latin-ext-800.ttf",
+     "family": "Source Code Pro ExtraBold",
+     "slug": "source-code-pro",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "800",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "source-code-pro-v31-cyrillic_latin_latin-ext-800italic.ttf",
+     "family": "Source Code Pro ExtraBold",
+     "slug": "source-code-pro",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "800italic",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "source-code-pro-v31-cyrillic_latin_latin-ext-900.ttf",
+     "family": "Source Code Pro Black",
+     "slug": "source-code-pro",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "900",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "source-code-pro-v31-cyrillic_latin_latin-ext-900italic.ttf",
+     "family": "Source Code Pro Black",
+     "slug": "source-code-pro",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "900italic",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "source-code-pro-v31-cyrillic_latin_latin-ext-italic.ttf",
+     "family": "Source Code Pro",
+     "slug": "source-code-pro",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "italic",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "source-code-pro-v31-cyrillic_latin_latin-ext-regular.ttf",
+     "family": "Source Code Pro",
+     "slug": "source-code-pro",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "regular",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "space-mono-v17-latin_latin-ext-700.ttf",
+     "family": "Space Mono",
+     "slug": "space-mono",
+     "subsets": [
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "700",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "space-mono-v17-latin_latin-ext-700italic.ttf",
+     "family": "Space Mono",
+     "slug": "space-mono",
+     "subsets": [
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "700italic",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "space-mono-v17-latin_latin-ext-italic.ttf",
+     "family": "Space Mono",
+     "slug": "space-mono",
+     "subsets": [
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "italic",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "space-mono-v17-latin_latin-ext-regular.ttf",
+     "family": "Space Mono",
+     "slug": "space-mono",
+     "subsets": [
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "regular",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "ubuntu-mono-v19-cyrillic_latin_latin-ext-700.ttf",
+     "family": "Ubuntu Mono",
+     "slug": "ubuntu-mono",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "700",
+     "license_url": ""
+    },
+    {
+     "file": "ubuntu-mono-v19-cyrillic_latin_latin-ext-700italic.ttf",
+     "family": "Ubuntu Mono",
+     "slug": "ubuntu-mono",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "700italic",
+     "license_url": ""
+    },
+    {
+     "file": "ubuntu-mono-v19-cyrillic_latin_latin-ext-italic.ttf",
+     "family": "Ubuntu Mono",
+     "slug": "ubuntu-mono",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "italic",
+     "license_url": ""
+    },
+    {
+     "file": "ubuntu-mono-v19-cyrillic_latin_latin-ext-regular.ttf",
+     "family": "Ubuntu Mono",
+     "slug": "ubuntu-mono",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "regular",
+     "license_url": ""
+    }
+   ]
+  },
+  "English_Handwriting": {
+   "count": 26,
+   "fonts": [
+    {
+     "file": "allura-v23-latin_latin-ext-regular.ttf",
+     "family": "Allura",
+     "slug": "allura",
+     "subsets": [
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "regular",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "caveat-v23-cyrillic_latin_latin-ext-500.ttf",
+     "family": "Caveat Medium",
+     "slug": "caveat",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "500",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "caveat-v23-cyrillic_latin_latin-ext-600.ttf",
+     "family": "Caveat SemiBold",
+     "slug": "caveat",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "600",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "caveat-v23-cyrillic_latin_latin-ext-700.ttf",
+     "family": "Caveat",
+     "slug": "caveat",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "700",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "caveat-v23-cyrillic_latin_latin-ext-regular.ttf",
+     "family": "Caveat",
+     "slug": "caveat",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "regular",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "cookie-v23-latin-regular.ttf",
+     "family": "Cookie",
+     "slug": "cookie",
+     "subsets": [
+      "latin"
+     ],
+     "variant": "regular",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "courgette-v19-latin_latin-ext-regular.ttf",
+     "family": "Courgette",
+     "slug": "courgette",
+     "subsets": [
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "regular",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "covered-by-your-grace-v17-latin_latin-ext-regular.ttf",
+     "family": "Covered By Your Grace",
+     "slug": "covered-by-your-grace",
+     "subsets": [
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "regular",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "dancing-script-v29-latin_latin-ext-500.ttf",
+     "family": "Dancing Script Medium",
+     "slug": "dancing-script",
+     "subsets": [
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "500",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "dancing-script-v29-latin_latin-ext-600.ttf",
+     "family": "Dancing Script SemiBold",
+     "slug": "dancing-script",
+     "subsets": [
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "600",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "dancing-script-v29-latin_latin-ext-700.ttf",
+     "family": "Dancing Script",
+     "slug": "dancing-script",
+     "subsets": [
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "700",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "dancing-script-v29-latin_latin-ext-regular.ttf",
+     "family": "Dancing Script",
+     "slug": "dancing-script",
+     "subsets": [
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "regular",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "great-vibes-v21-cyrillic_latin_latin-ext-regular.ttf",
+     "family": "Great Vibes",
+     "slug": "great-vibes",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "regular",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "homemade-apple-v24-latin-regular.ttf",
+     "family": "Homemade Apple",
+     "slug": "homemade-apple",
+     "subsets": [
+      "latin"
+     ],
+     "variant": "regular",
+     "license_url": "http://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+     "file": "kaushan-script-v19-latin_latin-ext-regular.ttf",
+     "family": "Kaushan Script",
+     "slug": "kaushan-script",
+     "subsets": [
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "regular",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "lobster-v32-cyrillic_latin_latin-ext-regular.ttf",
+     "family": "Lobster",
+     "slug": "lobster",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "regular",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "nothing-you-could-do-v21-latin-regular.ttf",
+     "family": "Nothing You Could Do",
+     "slug": "nothing-you-could-do",
+     "subsets": [
+      "latin"
+     ],
+     "variant": "regular",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "pacifico-v23-cyrillic_latin_latin-ext-regular.ttf",
+     "family": "Pacifico",
+     "slug": "pacifico",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "regular",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "parisienne-v14-latin_latin-ext-regular.ttf",
+     "family": "Parisienne",
+     "slug": "parisienne",
+     "subsets": [
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "regular",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "reenie-beanie-v22-latin-regular.ttf",
+     "family": "Reenie Beanie",
+     "slug": "reenie-beanie",
+     "subsets": [
+      "latin"
+     ],
+     "variant": "regular",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "sacramento-v17-latin_latin-ext-regular.ttf",
+     "family": "Sacramento",
+     "slug": "sacramento",
+     "subsets": [
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "regular",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "satisfy-v22-latin-regular.ttf",
+     "family": "Satisfy",
+     "slug": "satisfy",
+     "subsets": [
+      "latin"
+     ],
+     "variant": "regular",
+     "license_url": "http://www.apache.org/licenses/LICENSE-2.0"
+    },
+    {
+     "file": "shadows-into-light-v22-latin_latin-ext-regular.ttf",
+     "family": "Shadows Into Light",
+     "slug": "shadows-into-light",
+     "subsets": [
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "regular",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "tangerine-v18-latin-700.ttf",
+     "family": "Tangerine",
+     "slug": "tangerine",
+     "subsets": [
+      "latin"
+     ],
+     "variant": "700",
+     "license_url": ""
+    },
+    {
+     "file": "tangerine-v18-latin-regular.ttf",
+     "family": "Tangerine",
+     "slug": "tangerine",
+     "subsets": [
+      "latin"
+     ],
+     "variant": "regular",
+     "license_url": ""
+    },
+    {
+     "file": "yellowtail-v25-latin_latin-ext-regular.ttf",
+     "family": "Yellowtail",
+     "slug": "yellowtail",
+     "subsets": [
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "regular",
+     "license_url": ""
+    }
+   ]
+  },
+  "English_Serif_Sans": {
+   "count": 100,
+   "fonts": [
+    {
+     "file": "anton-v27-latin_latin-ext-regular.ttf",
+     "family": "Anton",
+     "slug": "anton",
+     "subsets": [
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "regular",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "josefin-sans-v34-latin_latin-ext-300italic.ttf",
+     "family": "Josefin Sans Thin Light",
+     "slug": "josefin-sans",
+     "subsets": [
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "300italic",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "josefin-sans-v34-latin_latin-ext-500italic.ttf",
+     "family": "Josefin Sans Thin Medium",
+     "slug": "josefin-sans",
+     "subsets": [
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "500italic",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "josefin-sans-v34-latin_latin-ext-600italic.ttf",
+     "family": "Josefin Sans Thin SemiBold",
+     "slug": "josefin-sans",
+     "subsets": [
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "600italic",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "josefin-sans-v34-latin_latin-ext-italic.ttf",
+     "family": "Josefin Sans Thin",
+     "slug": "josefin-sans",
+     "subsets": [
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "italic",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "lato-v25-latin_latin-ext-100.ttf",
+     "family": "Lato Hairline",
+     "slug": "lato",
+     "subsets": [
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "100",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "lato-v25-latin_latin-ext-300.ttf",
+     "family": "Lato Light",
+     "slug": "lato",
+     "subsets": [
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "300",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "lato-v25-latin_latin-ext-300italic.ttf",
+     "family": "Lato Light",
+     "slug": "lato",
+     "subsets": [
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "300italic",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "lato-v25-latin_latin-ext-700.ttf",
+     "family": "Lato",
+     "slug": "lato",
+     "subsets": [
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "700",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "lato-v25-latin_latin-ext-900italic.ttf",
+     "family": "Lato Black",
+     "slug": "lato",
+     "subsets": [
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "900italic",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "libre-baskerville-v24-latin_latin-ext-500.ttf",
+     "family": "Libre Baskerville Medium",
+     "slug": "libre-baskerville",
+     "subsets": [
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "500",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "libre-baskerville-v24-latin_latin-ext-500italic.ttf",
+     "family": "Libre Baskerville Medium",
+     "slug": "libre-baskerville",
+     "subsets": [
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "500italic",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "libre-baskerville-v24-latin_latin-ext-600.ttf",
+     "family": "Libre Baskerville SemiBold",
+     "slug": "libre-baskerville",
+     "subsets": [
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "600",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "libre-baskerville-v24-latin_latin-ext-600italic.ttf",
+     "family": "Libre Baskerville SemiBold",
+     "slug": "libre-baskerville",
+     "subsets": [
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "600italic",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "libre-baskerville-v24-latin_latin-ext-700.ttf",
+     "family": "Libre Baskerville",
+     "slug": "libre-baskerville",
+     "subsets": [
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "700",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "libre-baskerville-v24-latin_latin-ext-italic.ttf",
+     "family": "Libre Baskerville",
+     "slug": "libre-baskerville",
+     "subsets": [
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "italic",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "libre-baskerville-v24-latin_latin-ext-regular.ttf",
+     "family": "Libre Baskerville",
+     "slug": "libre-baskerville",
+     "subsets": [
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "regular",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "lora-v37-cyrillic_latin_latin-ext-500italic.ttf",
+     "family": "Lora Medium",
+     "slug": "lora",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "500italic",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "lora-v37-cyrillic_latin_latin-ext-600italic.ttf",
+     "family": "Lora SemiBold",
+     "slug": "lora",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "600italic",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "lora-v37-cyrillic_latin_latin-ext-italic.ttf",
+     "family": "Lora",
+     "slug": "lora",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "italic",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "merriweather-v33-cyrillic_latin_latin-ext-300.ttf",
+     "family": "Merriweather Light",
+     "slug": "merriweather",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "300",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "merriweather-v33-cyrillic_latin_latin-ext-300italic.ttf",
+     "family": "Merriweather Light",
+     "slug": "merriweather",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "300italic",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "merriweather-v33-cyrillic_latin_latin-ext-500.ttf",
+     "family": "Merriweather Medium",
+     "slug": "merriweather",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "500",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "merriweather-v33-cyrillic_latin_latin-ext-500italic.ttf",
+     "family": "Merriweather Medium",
+     "slug": "merriweather",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "500italic",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "merriweather-v33-cyrillic_latin_latin-ext-600.ttf",
+     "family": "Merriweather SemiBold",
+     "slug": "merriweather",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "600",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "merriweather-v33-cyrillic_latin_latin-ext-600italic.ttf",
+     "family": "Merriweather SemiBold",
+     "slug": "merriweather",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "600italic",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "merriweather-v33-cyrillic_latin_latin-ext-700.ttf",
+     "family": "Merriweather",
+     "slug": "merriweather",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "700",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "merriweather-v33-cyrillic_latin_latin-ext-900italic.ttf",
+     "family": "Merriweather Black",
+     "slug": "merriweather",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "900italic",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "merriweather-v33-cyrillic_latin_latin-ext-italic.ttf",
+     "family": "Merriweather",
+     "slug": "merriweather",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "italic",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "merriweather-v33-cyrillic_latin_latin-ext-regular.ttf",
+     "family": "Merriweather",
+     "slug": "merriweather",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "regular",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "montserrat-v31-cyrillic_latin_latin-ext-300italic.ttf",
+     "family": "Montserrat Light",
+     "slug": "montserrat",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "300italic",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "montserrat-v31-cyrillic_latin_latin-ext-500italic.ttf",
+     "family": "Montserrat Medium",
+     "slug": "montserrat",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "500italic",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "montserrat-v31-cyrillic_latin_latin-ext-600italic.ttf",
+     "family": "Montserrat SemiBold",
+     "slug": "montserrat",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "600italic",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "montserrat-v31-cyrillic_latin_latin-ext-800.ttf",
+     "family": "Montserrat ExtraBold",
+     "slug": "montserrat",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "800",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "montserrat-v31-cyrillic_latin_latin-ext-900.ttf",
+     "family": "Montserrat Black",
+     "slug": "montserrat",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "900",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "montserrat-v31-cyrillic_latin_latin-ext-900italic.ttf",
+     "family": "Montserrat Black",
+     "slug": "montserrat",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "900italic",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "montserrat-v31-cyrillic_latin_latin-ext-italic.ttf",
+     "family": "Montserrat",
+     "slug": "montserrat",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "italic",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "montserrat-v31-cyrillic_latin_latin-ext-regular.ttf",
+     "family": "Montserrat",
+     "slug": "montserrat",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "regular",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "nunito-v32-cyrillic_latin_latin-ext-300italic.ttf",
+     "family": "Nunito Light",
+     "slug": "nunito",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "300italic",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "nunito-v32-cyrillic_latin_latin-ext-500italic.ttf",
+     "family": "Nunito Medium",
+     "slug": "nunito",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "500italic",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "nunito-v32-cyrillic_latin_latin-ext-600italic.ttf",
+     "family": "Nunito SemiBold",
+     "slug": "nunito",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "600italic",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "nunito-v32-cyrillic_latin_latin-ext-800.ttf",
+     "family": "Nunito ExtraBold",
+     "slug": "nunito",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "800",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "nunito-v32-cyrillic_latin_latin-ext-900.ttf",
+     "family": "Nunito Black",
+     "slug": "nunito",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "900",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "nunito-v32-cyrillic_latin_latin-ext-900italic.ttf",
+     "family": "Nunito Black",
+     "slug": "nunito",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "900italic",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "nunito-v32-cyrillic_latin_latin-ext-italic.ttf",
+     "family": "Nunito",
+     "slug": "nunito",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "italic",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "open-sans-v44-cyrillic_latin_latin-ext-300.ttf",
+     "family": "Open Sans Light",
+     "slug": "open-sans",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "300",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "open-sans-v44-cyrillic_latin_latin-ext-500.ttf",
+     "family": "Open Sans Medium",
+     "slug": "open-sans",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "500",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "open-sans-v44-cyrillic_latin_latin-ext-600.ttf",
+     "family": "Open Sans SemiBold",
+     "slug": "open-sans",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "600",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "open-sans-v44-cyrillic_latin_latin-ext-700.ttf",
+     "family": "Open Sans",
+     "slug": "open-sans",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "700",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "open-sans-v44-cyrillic_latin_latin-ext-700italic.ttf",
+     "family": "Open Sans",
+     "slug": "open-sans",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "700italic",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "open-sans-v44-cyrillic_latin_latin-ext-800italic.ttf",
+     "family": "Open Sans ExtraBold",
+     "slug": "open-sans",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "800italic",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "open-sans-v44-cyrillic_latin_latin-ext-italic.ttf",
+     "family": "Open Sans",
+     "slug": "open-sans",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "italic",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "open-sans-v44-cyrillic_latin_latin-ext-regular.ttf",
+     "family": "Open Sans",
+     "slug": "open-sans",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "regular",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "playfair-display-v40-cyrillic_latin_latin-ext-500.ttf",
+     "family": "Playfair Display Medium",
+     "slug": "playfair-display",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "500",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "playfair-display-v40-cyrillic_latin_latin-ext-500italic.ttf",
+     "family": "Playfair Display Medium",
+     "slug": "playfair-display",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "500italic",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "playfair-display-v40-cyrillic_latin_latin-ext-600.ttf",
+     "family": "Playfair Display SemiBold",
+     "slug": "playfair-display",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "600",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "playfair-display-v40-cyrillic_latin_latin-ext-600italic.ttf",
+     "family": "Playfair Display SemiBold",
+     "slug": "playfair-display",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "600italic",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "playfair-display-v40-cyrillic_latin_latin-ext-700.ttf",
+     "family": "Playfair Display",
+     "slug": "playfair-display",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "700",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "playfair-display-v40-cyrillic_latin_latin-ext-800italic.ttf",
+     "family": "Playfair Display ExtraBold",
+     "slug": "playfair-display",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "800italic",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "playfair-display-v40-cyrillic_latin_latin-ext-900.ttf",
+     "family": "Playfair Display Black",
+     "slug": "playfair-display",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "900",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "playfair-display-v40-cyrillic_latin_latin-ext-900italic.ttf",
+     "family": "Playfair Display Black",
+     "slug": "playfair-display",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "900italic",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "playfair-display-v40-cyrillic_latin_latin-ext-regular.ttf",
+     "family": "Playfair Display",
+     "slug": "playfair-display",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "regular",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "poppins-v24-latin_latin-ext-100.ttf",
+     "family": "Poppins Thin",
+     "slug": "poppins",
+     "subsets": [
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "100",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "poppins-v24-latin_latin-ext-200.ttf",
+     "family": "Poppins ExtraLight",
+     "slug": "poppins",
+     "subsets": [
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "200",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "poppins-v24-latin_latin-ext-300.ttf",
+     "family": "Poppins Light",
+     "slug": "poppins",
+     "subsets": [
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "300",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "poppins-v24-latin_latin-ext-300italic.ttf",
+     "family": "Poppins Light",
+     "slug": "poppins",
+     "subsets": [
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "300italic",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "poppins-v24-latin_latin-ext-500.ttf",
+     "family": "Poppins Medium",
+     "slug": "poppins",
+     "subsets": [
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "500",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "poppins-v24-latin_latin-ext-500italic.ttf",
+     "family": "Poppins Medium",
+     "slug": "poppins",
+     "subsets": [
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "500italic",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "poppins-v24-latin_latin-ext-600.ttf",
+     "family": "Poppins SemiBold",
+     "slug": "poppins",
+     "subsets": [
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "600",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "poppins-v24-latin_latin-ext-600italic.ttf",
+     "family": "Poppins SemiBold",
+     "slug": "poppins",
+     "subsets": [
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "600italic",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "poppins-v24-latin_latin-ext-700.ttf",
+     "family": "Poppins",
+     "slug": "poppins",
+     "subsets": [
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "700",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "poppins-v24-latin_latin-ext-900italic.ttf",
+     "family": "Poppins Black",
+     "slug": "poppins",
+     "subsets": [
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "900italic",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "pt-sans-v18-cyrillic_latin_latin-ext-700italic.ttf",
+     "family": "PT Sans",
+     "slug": "pt-sans",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "700italic",
+     "license_url": "http://scripts.sil.org/OFL_web"
+    },
+    {
+     "file": "pt-sans-v18-cyrillic_latin_latin-ext-regular.ttf",
+     "family": "PT Sans",
+     "slug": "pt-sans",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "regular",
+     "license_url": "http://scripts.sil.org/OFL_web"
+    },
+    {
+     "file": "quicksand-v37-latin_latin-ext-300.ttf",
+     "family": "Quicksand Light Light",
+     "slug": "quicksand",
+     "subsets": [
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "300",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "quicksand-v37-latin_latin-ext-500.ttf",
+     "family": "Quicksand Light Medium",
+     "slug": "quicksand",
+     "subsets": [
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "500",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "quicksand-v37-latin_latin-ext-600.ttf",
+     "family": "Quicksand Light SemiBold",
+     "slug": "quicksand",
+     "subsets": [
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "600",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "quicksand-v37-latin_latin-ext-700.ttf",
+     "family": "Quicksand Light",
+     "slug": "quicksand",
+     "subsets": [
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "700",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "raleway-v37-cyrillic_latin_latin-ext-100.ttf",
+     "family": "Raleway Thin",
+     "slug": "raleway",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "100",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "raleway-v37-cyrillic_latin_latin-ext-200.ttf",
+     "family": "Raleway ExtraLight",
+     "slug": "raleway",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "200",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "raleway-v37-cyrillic_latin_latin-ext-300.ttf",
+     "family": "Raleway Light",
+     "slug": "raleway",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "300",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "raleway-v37-cyrillic_latin_latin-ext-300italic.ttf",
+     "family": "Raleway Light",
+     "slug": "raleway",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "300italic",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "raleway-v37-cyrillic_latin_latin-ext-500.ttf",
+     "family": "Raleway Medium",
+     "slug": "raleway",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "500",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "raleway-v37-cyrillic_latin_latin-ext-500italic.ttf",
+     "family": "Raleway Medium",
+     "slug": "raleway",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "500italic",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "raleway-v37-cyrillic_latin_latin-ext-600.ttf",
+     "family": "Raleway SemiBold",
+     "slug": "raleway",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "600",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "raleway-v37-cyrillic_latin_latin-ext-600italic.ttf",
+     "family": "Raleway SemiBold",
+     "slug": "raleway",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "600italic",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "raleway-v37-cyrillic_latin_latin-ext-700.ttf",
+     "family": "Raleway",
+     "slug": "raleway",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "700",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "raleway-v37-cyrillic_latin_latin-ext-900italic.ttf",
+     "family": "Raleway Black",
+     "slug": "raleway",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "900italic",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "raleway-v37-cyrillic_latin_latin-ext-regular.ttf",
+     "family": "Raleway",
+     "slug": "raleway",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "regular",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "roboto-v50-cyrillic_latin_latin-ext-200.ttf",
+     "family": "Roboto ExtraLight",
+     "slug": "roboto",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "200",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "roboto-v50-cyrillic_latin_latin-ext-300italic.ttf",
+     "family": "Roboto Light",
+     "slug": "roboto",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "300italic",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "roboto-v50-cyrillic_latin_latin-ext-500italic.ttf",
+     "family": "Roboto Medium",
+     "slug": "roboto",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "500italic",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "roboto-v50-cyrillic_latin_latin-ext-600italic.ttf",
+     "family": "Roboto SemiBold",
+     "slug": "roboto",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "600italic",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "roboto-v50-cyrillic_latin_latin-ext-800.ttf",
+     "family": "Roboto ExtraBold",
+     "slug": "roboto",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "800",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "roboto-v50-cyrillic_latin_latin-ext-900.ttf",
+     "family": "Roboto Black",
+     "slug": "roboto",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "900",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "roboto-v50-cyrillic_latin_latin-ext-900italic.ttf",
+     "family": "Roboto Black",
+     "slug": "roboto",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "900italic",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "roboto-v50-cyrillic_latin_latin-ext-italic.ttf",
+     "family": "Roboto",
+     "slug": "roboto",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "italic",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "roboto-v50-cyrillic_latin_latin-ext-regular.ttf",
+     "family": "Roboto",
+     "slug": "roboto",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "regular",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "ubuntu-v21-cyrillic_latin_latin-ext-700italic.ttf",
+     "family": "Ubuntu",
+     "slug": "ubuntu",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "700italic",
+     "license_url": ""
+    },
+    {
+     "file": "ubuntu-v21-cyrillic_latin_latin-ext-italic.ttf",
+     "family": "Ubuntu",
+     "slug": "ubuntu",
+     "subsets": [
+      "cyrillic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "italic",
+     "license_url": ""
+    }
+   ]
+  },
+  "Japanese": {
+   "count": 24,
+   "fonts": [
+    {
+     "file": "dotgothic16-v21-cyrillic_japanese_latin_latin-ext-regular.ttf",
+     "family": "DotGothic16",
+     "slug": "dotgothic16",
+     "subsets": [
+      "cyrillic",
+      "japanese",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "regular",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "kiwi-maru-v20-cyrillic_japanese_latin_latin-ext-300.ttf",
+     "family": "Kiwi Maru Light",
+     "slug": "kiwi-maru",
+     "subsets": [
+      "cyrillic",
+      "japanese",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "300",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "kiwi-maru-v20-cyrillic_japanese_latin_latin-ext-500.ttf",
+     "family": "Kiwi Maru Medium",
+     "slug": "kiwi-maru",
+     "subsets": [
+      "cyrillic",
+      "japanese",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "500",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "kiwi-maru-v20-cyrillic_japanese_latin_latin-ext-regular.ttf",
+     "family": "Kiwi Maru",
+     "slug": "kiwi-maru",
+     "subsets": [
+      "cyrillic",
+      "japanese",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "regular",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "noto-sans-jp-v55-cyrillic_japanese_latin_latin-ext-100.ttf",
+     "family": "Noto Sans JP Thin",
+     "slug": "noto-sans-jp",
+     "subsets": [
+      "cyrillic",
+      "japanese",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "100",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "noto-sans-jp-v55-cyrillic_japanese_latin_latin-ext-200.ttf",
+     "family": "Noto Sans JP ExtraLight",
+     "slug": "noto-sans-jp",
+     "subsets": [
+      "cyrillic",
+      "japanese",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "200",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "noto-sans-jp-v55-cyrillic_japanese_latin_latin-ext-300.ttf",
+     "family": "Noto Sans JP Light",
+     "slug": "noto-sans-jp",
+     "subsets": [
+      "cyrillic",
+      "japanese",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "300",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "noto-sans-jp-v55-cyrillic_japanese_latin_latin-ext-500.ttf",
+     "family": "Noto Sans JP Medium",
+     "slug": "noto-sans-jp",
+     "subsets": [
+      "cyrillic",
+      "japanese",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "500",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "noto-sans-jp-v55-cyrillic_japanese_latin_latin-ext-600.ttf",
+     "family": "Noto Sans JP SemiBold",
+     "slug": "noto-sans-jp",
+     "subsets": [
+      "cyrillic",
+      "japanese",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "600",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "noto-sans-jp-v55-cyrillic_japanese_latin_latin-ext-700.ttf",
+     "family": "Noto Sans JP",
+     "slug": "noto-sans-jp",
+     "subsets": [
+      "cyrillic",
+      "japanese",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "700",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "noto-sans-jp-v55-cyrillic_japanese_latin_latin-ext-800.ttf",
+     "family": "Noto Sans JP ExtraBold",
+     "slug": "noto-sans-jp",
+     "subsets": [
+      "cyrillic",
+      "japanese",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "800",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "noto-sans-jp-v55-cyrillic_japanese_latin_latin-ext-900.ttf",
+     "family": "Noto Sans JP Black",
+     "slug": "noto-sans-jp",
+     "subsets": [
+      "cyrillic",
+      "japanese",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "900",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "noto-sans-jp-v55-cyrillic_japanese_latin_latin-ext-regular.ttf",
+     "family": "Noto Sans JP",
+     "slug": "noto-sans-jp",
+     "subsets": [
+      "cyrillic",
+      "japanese",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "regular",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "noto-serif-jp-v32-cyrillic_japanese_latin_latin-ext-200.ttf",
+     "family": "Noto Serif JP ExtraLight",
+     "slug": "noto-serif-jp",
+     "subsets": [
+      "cyrillic",
+      "japanese",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "200",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "noto-serif-jp-v32-cyrillic_japanese_latin_latin-ext-300.ttf",
+     "family": "Noto Serif JP Light",
+     "slug": "noto-serif-jp",
+     "subsets": [
+      "cyrillic",
+      "japanese",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "300",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "noto-serif-jp-v32-cyrillic_japanese_latin_latin-ext-500.ttf",
+     "family": "Noto Serif JP Medium",
+     "slug": "noto-serif-jp",
+     "subsets": [
+      "cyrillic",
+      "japanese",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "500",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "noto-serif-jp-v32-cyrillic_japanese_latin_latin-ext-600.ttf",
+     "family": "Noto Serif JP SemiBold",
+     "slug": "noto-serif-jp",
+     "subsets": [
+      "cyrillic",
+      "japanese",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "600",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "noto-serif-jp-v32-cyrillic_japanese_latin_latin-ext-700.ttf",
+     "family": "Noto Serif JP",
+     "slug": "noto-serif-jp",
+     "subsets": [
+      "cyrillic",
+      "japanese",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "700",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "noto-serif-jp-v32-cyrillic_japanese_latin_latin-ext-800.ttf",
+     "family": "Noto Serif JP ExtraBold",
+     "slug": "noto-serif-jp",
+     "subsets": [
+      "cyrillic",
+      "japanese",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "800",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "noto-serif-jp-v32-cyrillic_japanese_latin_latin-ext-900.ttf",
+     "family": "Noto Serif JP Black",
+     "slug": "noto-serif-jp",
+     "subsets": [
+      "cyrillic",
+      "japanese",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "900",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "noto-serif-jp-v32-cyrillic_japanese_latin_latin-ext-regular.ttf",
+     "family": "Noto Serif JP",
+     "slug": "noto-serif-jp",
+     "subsets": [
+      "cyrillic",
+      "japanese",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "regular",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "potta-one-v19-japanese_latin_latin-ext-regular.ttf",
+     "family": "Potta One",
+     "slug": "potta-one",
+     "subsets": [
+      "japanese",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "regular",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "reggae-one-v19-cyrillic_japanese_latin_latin-ext-regular.ttf",
+     "family": "Reggae One",
+     "slug": "reggae-one",
+     "subsets": [
+      "cyrillic",
+      "japanese",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "regular",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "rocknroll-one-v16-japanese_latin_latin-ext-regular.ttf",
+     "family": "RocknRoll One",
+     "slug": "rocknroll-one",
+     "subsets": [
+      "japanese",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "regular",
+     "license_url": "https://scripts.sil.org/OFL"
+    }
+   ]
+  },
+  "Korean": {
+   "count": 34,
+   "fonts": [
+    {
+     "file": "do-hyeon-v21-korean_latin-regular.ttf",
+     "family": "Do Hyeon",
+     "slug": "do-hyeon",
+     "subsets": [
+      "korean",
+      "latin"
+     ],
+     "variant": "regular",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "gothic-a1-v18-cyrillic_korean_latin_latin-ext-100.ttf",
+     "family": "Gothic A1 Thin",
+     "slug": "gothic-a1",
+     "subsets": [
+      "cyrillic",
+      "korean",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "100",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "gothic-a1-v18-cyrillic_korean_latin_latin-ext-200.ttf",
+     "family": "Gothic A1 ExtraLight",
+     "slug": "gothic-a1",
+     "subsets": [
+      "cyrillic",
+      "korean",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "200",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "gothic-a1-v18-cyrillic_korean_latin_latin-ext-300.ttf",
+     "family": "Gothic A1 Light",
+     "slug": "gothic-a1",
+     "subsets": [
+      "cyrillic",
+      "korean",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "300",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "gothic-a1-v18-cyrillic_korean_latin_latin-ext-500.ttf",
+     "family": "Gothic A1 Medium",
+     "slug": "gothic-a1",
+     "subsets": [
+      "cyrillic",
+      "korean",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "500",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "gothic-a1-v18-cyrillic_korean_latin_latin-ext-600.ttf",
+     "family": "Gothic A1 SemiBold",
+     "slug": "gothic-a1",
+     "subsets": [
+      "cyrillic",
+      "korean",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "600",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "gothic-a1-v18-cyrillic_korean_latin_latin-ext-700.ttf",
+     "family": "Gothic A1",
+     "slug": "gothic-a1",
+     "subsets": [
+      "cyrillic",
+      "korean",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "700",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "gothic-a1-v18-cyrillic_korean_latin_latin-ext-800.ttf",
+     "family": "Gothic A1 ExtraBold",
+     "slug": "gothic-a1",
+     "subsets": [
+      "cyrillic",
+      "korean",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "800",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "gothic-a1-v18-cyrillic_korean_latin_latin-ext-900.ttf",
+     "family": "Gothic A1 Black",
+     "slug": "gothic-a1",
+     "subsets": [
+      "cyrillic",
+      "korean",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "900",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "gothic-a1-v18-cyrillic_korean_latin_latin-ext-regular.ttf",
+     "family": "Gothic A1",
+     "slug": "gothic-a1",
+     "subsets": [
+      "cyrillic",
+      "korean",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "regular",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "jua-v18-korean_latin-regular.ttf",
+     "family": "Jua",
+     "slug": "jua",
+     "subsets": [
+      "korean",
+      "latin"
+     ],
+     "variant": "regular",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "nanum-brush-script-v26-korean_latin-regular.ttf",
+     "family": "Nanum Brush Script",
+     "slug": "nanum-brush-script",
+     "subsets": [
+      "korean",
+      "latin"
+     ],
+     "variant": "regular",
+     "license_url": ""
+    },
+    {
+     "file": "nanum-gothic-v26-korean_latin-700.ttf",
+     "family": "NanumGothic",
+     "slug": "nanum-gothic",
+     "subsets": [
+      "korean",
+      "latin"
+     ],
+     "variant": "700",
+     "license_url": "http://www.nhncorp.com"
+    },
+    {
+     "file": "nanum-gothic-v26-korean_latin-800.ttf",
+     "family": "NanumGothicExtraBold",
+     "slug": "nanum-gothic",
+     "subsets": [
+      "korean",
+      "latin"
+     ],
+     "variant": "800",
+     "license_url": "http://www.nhncorp.com"
+    },
+    {
+     "file": "nanum-gothic-v26-korean_latin-regular.ttf",
+     "family": "NanumGothic",
+     "slug": "nanum-gothic",
+     "subsets": [
+      "korean",
+      "latin"
+     ],
+     "variant": "regular",
+     "license_url": "http://www.nhncorp.com"
+    },
+    {
+     "file": "nanum-pen-script-v25-korean_latin-regular.ttf",
+     "family": "Nanum Pen",
+     "slug": "nanum-pen-script",
+     "subsets": [
+      "korean",
+      "latin"
+     ],
+     "variant": "regular",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "noto-sans-kr-v38-cyrillic_korean_latin_latin-ext-100.ttf",
+     "family": "Noto Sans KR Thin",
+     "slug": "noto-sans-kr",
+     "subsets": [
+      "cyrillic",
+      "korean",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "100",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "noto-sans-kr-v38-cyrillic_korean_latin_latin-ext-200.ttf",
+     "family": "Noto Sans KR ExtraLight",
+     "slug": "noto-sans-kr",
+     "subsets": [
+      "cyrillic",
+      "korean",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "200",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "noto-sans-kr-v38-cyrillic_korean_latin_latin-ext-300.ttf",
+     "family": "Noto Sans KR Light",
+     "slug": "noto-sans-kr",
+     "subsets": [
+      "cyrillic",
+      "korean",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "300",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "noto-sans-kr-v38-cyrillic_korean_latin_latin-ext-500.ttf",
+     "family": "Noto Sans KR Medium",
+     "slug": "noto-sans-kr",
+     "subsets": [
+      "cyrillic",
+      "korean",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "500",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "noto-sans-kr-v38-cyrillic_korean_latin_latin-ext-600.ttf",
+     "family": "Noto Sans KR SemiBold",
+     "slug": "noto-sans-kr",
+     "subsets": [
+      "cyrillic",
+      "korean",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "600",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "noto-sans-kr-v38-cyrillic_korean_latin_latin-ext-700.ttf",
+     "family": "Noto Sans KR",
+     "slug": "noto-sans-kr",
+     "subsets": [
+      "cyrillic",
+      "korean",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "700",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "noto-sans-kr-v38-cyrillic_korean_latin_latin-ext-800.ttf",
+     "family": "Noto Sans KR ExtraBold",
+     "slug": "noto-sans-kr",
+     "subsets": [
+      "cyrillic",
+      "korean",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "800",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "noto-sans-kr-v38-cyrillic_korean_latin_latin-ext-900.ttf",
+     "family": "Noto Sans KR Black",
+     "slug": "noto-sans-kr",
+     "subsets": [
+      "cyrillic",
+      "korean",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "900",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "noto-sans-kr-v38-cyrillic_korean_latin_latin-ext-regular.ttf",
+     "family": "Noto Sans KR",
+     "slug": "noto-sans-kr",
+     "subsets": [
+      "cyrillic",
+      "korean",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "regular",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "noto-serif-kr-v30-cyrillic_korean_latin_latin-ext-200.ttf",
+     "family": "Noto Serif KR ExtraLight",
+     "slug": "noto-serif-kr",
+     "subsets": [
+      "cyrillic",
+      "korean",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "200",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "noto-serif-kr-v30-cyrillic_korean_latin_latin-ext-300.ttf",
+     "family": "Noto Serif KR Light",
+     "slug": "noto-serif-kr",
+     "subsets": [
+      "cyrillic",
+      "korean",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "300",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "noto-serif-kr-v30-cyrillic_korean_latin_latin-ext-500.ttf",
+     "family": "Noto Serif KR Medium",
+     "slug": "noto-serif-kr",
+     "subsets": [
+      "cyrillic",
+      "korean",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "500",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "noto-serif-kr-v30-cyrillic_korean_latin_latin-ext-600.ttf",
+     "family": "Noto Serif KR SemiBold",
+     "slug": "noto-serif-kr",
+     "subsets": [
+      "cyrillic",
+      "korean",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "600",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "noto-serif-kr-v30-cyrillic_korean_latin_latin-ext-700.ttf",
+     "family": "Noto Serif KR",
+     "slug": "noto-serif-kr",
+     "subsets": [
+      "cyrillic",
+      "korean",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "700",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "noto-serif-kr-v30-cyrillic_korean_latin_latin-ext-800.ttf",
+     "family": "Noto Serif KR ExtraBold",
+     "slug": "noto-serif-kr",
+     "subsets": [
+      "cyrillic",
+      "korean",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "800",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "noto-serif-kr-v30-cyrillic_korean_latin_latin-ext-900.ttf",
+     "family": "Noto Serif KR Black",
+     "slug": "noto-serif-kr",
+     "subsets": [
+      "cyrillic",
+      "korean",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "900",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "noto-serif-kr-v30-cyrillic_korean_latin_latin-ext-regular.ttf",
+     "family": "Noto Serif KR",
+     "slug": "noto-serif-kr",
+     "subsets": [
+      "cyrillic",
+      "korean",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "regular",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "yeon-sung-v22-korean_latin-regular.ttf",
+     "family": "Yeon Sung",
+     "slug": "yeon-sung",
+     "subsets": [
+      "korean",
+      "latin"
+     ],
+     "variant": "regular",
+     "license_url": "http://scripts.sil.org/OFL"
+    }
+   ]
+  },
+  "Universal_Coverage": {
+   "count": 98,
+   "fonts": [
+    {
+     "file": "noto-sans-arabic-v33-arabic_latin_latin-ext-800.ttf",
+     "family": "Noto Sans Arabic ExtraBold",
+     "slug": "noto-sans-arabic",
+     "subsets": [
+      "arabic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "800",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "noto-sans-arabic-v33-arabic_latin_latin-ext-900.ttf",
+     "family": "Noto Sans Arabic Black",
+     "slug": "noto-sans-arabic",
+     "subsets": [
+      "arabic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "900",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "noto-sans-arabic-v33-arabic_latin_latin-ext-regular.ttf",
+     "family": "Noto Sans Arabic",
+     "slug": "noto-sans-arabic",
+     "subsets": [
+      "arabic",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "regular",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "noto-sans-armenian-v47-latin_latin-ext-100.ttf",
+     "family": "Noto Sans Armenian Thin",
+     "slug": "noto-sans-armenian",
+     "subsets": [
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "100",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "noto-sans-armenian-v47-latin_latin-ext-200.ttf",
+     "family": "Noto Sans Armenian ExtraLight",
+     "slug": "noto-sans-armenian",
+     "subsets": [
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "200",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "noto-sans-armenian-v47-latin_latin-ext-300.ttf",
+     "family": "Noto Sans Armenian Light",
+     "slug": "noto-sans-armenian",
+     "subsets": [
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "300",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "noto-sans-armenian-v47-latin_latin-ext-500.ttf",
+     "family": "Noto Sans Armenian Medium",
+     "slug": "noto-sans-armenian",
+     "subsets": [
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "500",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "noto-sans-armenian-v47-latin_latin-ext-700.ttf",
+     "family": "Noto Sans Armenian",
+     "slug": "noto-sans-armenian",
+     "subsets": [
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "700",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "noto-sans-armenian-v47-latin_latin-ext-regular.ttf",
+     "family": "Noto Sans Armenian",
+     "slug": "noto-sans-armenian",
+     "subsets": [
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "regular",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "noto-sans-bengali-v32-bengali_latin_latin-ext-800.ttf",
+     "family": "Noto Sans Bengali ExtraBold",
+     "slug": "noto-sans-bengali",
+     "subsets": [
+      "bengali",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "800",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "noto-sans-bengali-v32-bengali_latin_latin-ext-900.ttf",
+     "family": "Noto Sans Bengali Black",
+     "slug": "noto-sans-bengali",
+     "subsets": [
+      "bengali",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "900",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "noto-sans-canadian-aboriginal-v28-latin_latin-ext-100.ttf",
+     "family": "Noto Sans Canadian Aboriginal Thin",
+     "slug": "noto-sans-canadian-aboriginal",
+     "subsets": [
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "100",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "noto-sans-canadian-aboriginal-v28-latin_latin-ext-200.ttf",
+     "family": "Noto Sans Canadian Aboriginal ExtraLight",
+     "slug": "noto-sans-canadian-aboriginal",
+     "subsets": [
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "200",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "noto-sans-canadian-aboriginal-v28-latin_latin-ext-300.ttf",
+     "family": "Noto Sans Canadian Aboriginal Light",
+     "slug": "noto-sans-canadian-aboriginal",
+     "subsets": [
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "300",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "noto-sans-canadian-aboriginal-v28-latin_latin-ext-600.ttf",
+     "family": "Noto Sans Canadian Aboriginal SemiBold",
+     "slug": "noto-sans-canadian-aboriginal",
+     "subsets": [
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "600",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "noto-sans-canadian-aboriginal-v28-latin_latin-ext-700.ttf",
+     "family": "Noto Sans Canadian Aboriginal",
+     "slug": "noto-sans-canadian-aboriginal",
+     "subsets": [
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "700",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "noto-sans-cherokee-v25-latin_latin-ext-800.ttf",
+     "family": "Noto Sans Cherokee ExtraBold",
+     "slug": "noto-sans-cherokee",
+     "subsets": [
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "800",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "noto-sans-cherokee-v25-latin_latin-ext-900.ttf",
+     "family": "Noto Sans Cherokee Black",
+     "slug": "noto-sans-cherokee",
+     "subsets": [
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "900",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "noto-sans-devanagari-v30-devanagari_latin_latin-ext-100.ttf",
+     "family": "Noto Sans Devanagari Thin",
+     "slug": "noto-sans-devanagari",
+     "subsets": [
+      "devanagari",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "100",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "noto-sans-devanagari-v30-devanagari_latin_latin-ext-200.ttf",
+     "family": "Noto Sans Devanagari ExtraLight",
+     "slug": "noto-sans-devanagari",
+     "subsets": [
+      "devanagari",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "200",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "noto-sans-devanagari-v30-devanagari_latin_latin-ext-300.ttf",
+     "family": "Noto Sans Devanagari Light",
+     "slug": "noto-sans-devanagari",
+     "subsets": [
+      "devanagari",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "300",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "noto-sans-devanagari-v30-devanagari_latin_latin-ext-600.ttf",
+     "family": "Noto Sans Devanagari SemiBold",
+     "slug": "noto-sans-devanagari",
+     "subsets": [
+      "devanagari",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "600",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "noto-sans-devanagari-v30-devanagari_latin_latin-ext-700.ttf",
+     "family": "Noto Sans Devanagari",
+     "slug": "noto-sans-devanagari",
+     "subsets": [
+      "devanagari",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "700",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "noto-sans-ethiopic-v50-latin_latin-ext-100.ttf",
+     "family": "Noto Sans Ethiopic Thin",
+     "slug": "noto-sans-ethiopic",
+     "subsets": [
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "100",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "noto-sans-ethiopic-v50-latin_latin-ext-300.ttf",
+     "family": "Noto Sans Ethiopic Light",
+     "slug": "noto-sans-ethiopic",
+     "subsets": [
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "300",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "noto-sans-ethiopic-v50-latin_latin-ext-500.ttf",
+     "family": "Noto Sans Ethiopic Medium",
+     "slug": "noto-sans-ethiopic",
+     "subsets": [
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "500",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "noto-sans-ethiopic-v50-latin_latin-ext-600.ttf",
+     "family": "Noto Sans Ethiopic SemiBold",
+     "slug": "noto-sans-ethiopic",
+     "subsets": [
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "600",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "noto-sans-ethiopic-v50-latin_latin-ext-700.ttf",
+     "family": "Noto Sans Ethiopic",
+     "slug": "noto-sans-ethiopic",
+     "subsets": [
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "700",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "noto-sans-georgian-v48-latin_latin-ext-100.ttf",
+     "family": "Noto Sans Georgian Thin",
+     "slug": "noto-sans-georgian",
+     "subsets": [
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "100",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "noto-sans-georgian-v48-latin_latin-ext-200.ttf",
+     "family": "Noto Sans Georgian ExtraLight",
+     "slug": "noto-sans-georgian",
+     "subsets": [
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "200",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "noto-sans-georgian-v48-latin_latin-ext-300.ttf",
+     "family": "Noto Sans Georgian Light",
+     "slug": "noto-sans-georgian",
+     "subsets": [
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "300",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "noto-sans-georgian-v48-latin_latin-ext-500.ttf",
+     "family": "Noto Sans Georgian Medium",
+     "slug": "noto-sans-georgian",
+     "subsets": [
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "500",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "noto-sans-georgian-v48-latin_latin-ext-600.ttf",
+     "family": "Noto Sans Georgian SemiBold",
+     "slug": "noto-sans-georgian",
+     "subsets": [
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "600",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "noto-sans-gujarati-v27-latin_latin-ext-900.ttf",
+     "family": "Noto Sans Gujarati Black",
+     "slug": "noto-sans-gujarati",
+     "subsets": [
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "900",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "noto-sans-gujarati-v27-latin_latin-ext-regular.ttf",
+     "family": "Noto Sans Gujarati",
+     "slug": "noto-sans-gujarati",
+     "subsets": [
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "regular",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "noto-sans-gurmukhi-v29-latin_latin-ext-100.ttf",
+     "family": "Noto Sans Gurmukhi Thin",
+     "slug": "noto-sans-gurmukhi",
+     "subsets": [
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "100",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "noto-sans-gurmukhi-v29-latin_latin-ext-300.ttf",
+     "family": "Noto Sans Gurmukhi Light",
+     "slug": "noto-sans-gurmukhi",
+     "subsets": [
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "300",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "noto-sans-gurmukhi-v29-latin_latin-ext-500.ttf",
+     "family": "Noto Sans Gurmukhi Medium",
+     "slug": "noto-sans-gurmukhi",
+     "subsets": [
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "500",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "noto-sans-gurmukhi-v29-latin_latin-ext-600.ttf",
+     "family": "Noto Sans Gurmukhi SemiBold",
+     "slug": "noto-sans-gurmukhi",
+     "subsets": [
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "600",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "noto-sans-gurmukhi-v29-latin_latin-ext-700.ttf",
+     "family": "Noto Sans Gurmukhi",
+     "slug": "noto-sans-gurmukhi",
+     "subsets": [
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "700",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "noto-sans-gurmukhi-v29-latin_latin-ext-regular.ttf",
+     "family": "Noto Sans Gurmukhi",
+     "slug": "noto-sans-gurmukhi",
+     "subsets": [
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "regular",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "noto-sans-hebrew-regular.ttf",
+     "family": "Noto Sans Hebrew",
+     "slug": "Universal_Coverage/noto-sans-hebrew-regular.ttf",
+     "subsets": [
+      "?"
+     ],
+     "variant": "?",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "noto-sans-kannada-v31-latin_latin-ext-800.ttf",
+     "family": "Noto Sans Kannada ExtraBold",
+     "slug": "noto-sans-kannada",
+     "subsets": [
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "800",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "noto-sans-kannada-v31-latin_latin-ext-900.ttf",
+     "family": "Noto Sans Kannada Black",
+     "slug": "noto-sans-kannada",
+     "subsets": [
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "900",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "noto-sans-khmer-v29-khmer_latin_latin-ext-100.ttf",
+     "family": "Noto Sans Khmer Thin",
+     "slug": "noto-sans-khmer",
+     "subsets": [
+      "khmer",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "100",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "noto-sans-khmer-v29-khmer_latin_latin-ext-200.ttf",
+     "family": "Noto Sans Khmer ExtraLight",
+     "slug": "noto-sans-khmer",
+     "subsets": [
+      "khmer",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "200",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "noto-sans-khmer-v29-khmer_latin_latin-ext-300.ttf",
+     "family": "Noto Sans Khmer Light",
+     "slug": "noto-sans-khmer",
+     "subsets": [
+      "khmer",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "300",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "noto-sans-khmer-v29-khmer_latin_latin-ext-600.ttf",
+     "family": "Noto Sans Khmer SemiBold",
+     "slug": "noto-sans-khmer",
+     "subsets": [
+      "khmer",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "600",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "noto-sans-khmer-v29-khmer_latin_latin-ext-700.ttf",
+     "family": "Noto Sans Khmer",
+     "slug": "noto-sans-khmer",
+     "subsets": [
+      "khmer",
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "700",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "noto-sans-lao-v33-latin_latin-ext-100.ttf",
+     "family": "Noto Sans Lao Thin",
+     "slug": "noto-sans-lao",
+     "subsets": [
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "100",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "noto-sans-lao-v33-latin_latin-ext-300.ttf",
+     "family": "Noto Sans Lao Light",
+     "slug": "noto-sans-lao",
+     "subsets": [
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "300",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "noto-sans-lao-v33-latin_latin-ext-500.ttf",
+     "family": "Noto Sans Lao Medium",
+     "slug": "noto-sans-lao",
+     "subsets": [
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "500",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "noto-sans-lao-v33-latin_latin-ext-600.ttf",
+     "family": "Noto Sans Lao SemiBold",
+     "slug": "noto-sans-lao",
+     "subsets": [
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "600",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "noto-sans-lao-v33-latin_latin-ext-700.ttf",
+     "family": "Noto Sans Lao",
+     "slug": "noto-sans-lao",
+     "subsets": [
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "700",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "noto-sans-malayalam-v29-latin_latin-ext-800.ttf",
+     "family": "Noto Sans Malayalam ExtraBold",
+     "slug": "noto-sans-malayalam",
+     "subsets": [
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "800",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "noto-sans-malayalam-v29-latin_latin-ext-900.ttf",
+     "family": "Noto Sans Malayalam Black",
+     "slug": "noto-sans-malayalam",
+     "subsets": [
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "900",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "noto-sans-math-v18-cyrillic_latin-regular.ttf",
+     "family": "Noto Sans Math",
+     "slug": "noto-sans-math",
+     "subsets": [
+      "cyrillic",
+      "latin"
+     ],
+     "variant": "regular",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "noto-sans-mongolian-v23-latin_latin-ext-regular.ttf",
+     "family": "Noto Sans Mongolian",
+     "slug": "noto-sans-mongolian",
+     "subsets": [
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "regular",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "noto-sans-myanmar-v21-myanmar-regular.ttf",
+     "family": "Noto Sans Myanmar",
+     "slug": "noto-sans-myanmar",
+     "subsets": [
+      "myanmar"
+     ],
+     "variant": "regular",
+     "license_url": "http://scripts.sil.org/OFL"
+    },
+    {
+     "file": "noto-sans-nko-v7-latin_latin-ext-regular.ttf",
+     "family": "Noto Sans NKo",
+     "slug": "noto-sans-nko",
+     "subsets": [
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "regular",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "noto-sans-oriya-v33-latin_latin-ext-100.ttf",
+     "family": "Noto Sans Oriya Thin",
+     "slug": "noto-sans-oriya",
+     "subsets": [
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "100",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "noto-sans-oriya-v33-latin_latin-ext-200.ttf",
+     "family": "Noto Sans Oriya ExtraLight",
+     "slug": "noto-sans-oriya",
+     "subsets": [
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "200",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "noto-sans-oriya-v33-latin_latin-ext-300.ttf",
+     "family": "Noto Sans Oriya Light",
+     "slug": "noto-sans-oriya",
+     "subsets": [
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "300",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "noto-sans-oriya-v33-latin_latin-ext-500.ttf",
+     "family": "Noto Sans Oriya Medium",
+     "slug": "noto-sans-oriya",
+     "subsets": [
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "500",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "noto-sans-oriya-v33-latin_latin-ext-600.ttf",
+     "family": "Noto Sans Oriya SemiBold",
+     "slug": "noto-sans-oriya",
+     "subsets": [
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "600",
+     "license_url": "https://openfontlicense.org"
+    },
+    {
+     "file": "noto-sans-sinhala-v36-latin_latin-ext_sinhala-800.ttf",
+     "family": "Noto Sans Sinhala ExtraBold",
+     "slug": "noto-sans-sinhala",
+     "subsets": [
+      "latin",
+      "latin-ext",
+      "sinhala"
+     ],
+     "variant": "800",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "noto-sans-sinhala-v36-latin_latin-ext_sinhala-900.ttf",
+     "family": "Noto Sans Sinhala Black",
+     "slug": "noto-sans-sinhala",
+     "subsets": [
+      "latin",
+      "latin-ext",
+      "sinhala"
+     ],
+     "variant": "900",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "noto-sans-symbols-v47-latin_latin-ext-100.ttf",
+     "family": "Noto Sans Symbols Thin",
+     "slug": "noto-sans-symbols",
+     "subsets": [
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "100",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "noto-sans-symbols-v47-latin_latin-ext-200.ttf",
+     "family": "Noto Sans Symbols ExtraLight",
+     "slug": "noto-sans-symbols",
+     "subsets": [
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "200",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "noto-sans-symbols-v47-latin_latin-ext-300.ttf",
+     "family": "Noto Sans Symbols Light",
+     "slug": "noto-sans-symbols",
+     "subsets": [
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "300",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "noto-sans-symbols-v47-latin_latin-ext-500.ttf",
+     "family": "Noto Sans Symbols Medium",
+     "slug": "noto-sans-symbols",
+     "subsets": [
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "500",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "noto-sans-symbols-v47-latin_latin-ext-700.ttf",
+     "family": "Noto Sans Symbols",
+     "slug": "noto-sans-symbols",
+     "subsets": [
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "700",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "noto-sans-syriac-v18-latin_latin-ext-100.ttf",
+     "family": "Noto Sans Syriac Thin",
+     "slug": "noto-sans-syriac",
+     "subsets": [
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "100",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "noto-sans-syriac-v18-latin_latin-ext-200.ttf",
+     "family": "Noto Sans Syriac ExtraLight",
+     "slug": "noto-sans-syriac",
+     "subsets": [
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "200",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "noto-sans-syriac-v18-latin_latin-ext-300.ttf",
+     "family": "Noto Sans Syriac Light",
+     "slug": "noto-sans-syriac",
+     "subsets": [
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "300",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "noto-sans-syriac-v18-latin_latin-ext-600.ttf",
+     "family": "Noto Sans Syriac SemiBold",
+     "slug": "noto-sans-syriac",
+     "subsets": [
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "600",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "noto-sans-tamil-v31-latin_latin-ext_tamil-100.ttf",
+     "family": "Noto Sans Tamil Thin",
+     "slug": "noto-sans-tamil",
+     "subsets": [
+      "latin",
+      "latin-ext",
+      "tamil"
+     ],
+     "variant": "100",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "noto-sans-tamil-v31-latin_latin-ext_tamil-200.ttf",
+     "family": "Noto Sans Tamil ExtraLight",
+     "slug": "noto-sans-tamil",
+     "subsets": [
+      "latin",
+      "latin-ext",
+      "tamil"
+     ],
+     "variant": "200",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "noto-sans-tamil-v31-latin_latin-ext_tamil-300.ttf",
+     "family": "Noto Sans Tamil Light",
+     "slug": "noto-sans-tamil",
+     "subsets": [
+      "latin",
+      "latin-ext",
+      "tamil"
+     ],
+     "variant": "300",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "noto-sans-tamil-v31-latin_latin-ext_tamil-500.ttf",
+     "family": "Noto Sans Tamil Medium",
+     "slug": "noto-sans-tamil",
+     "subsets": [
+      "latin",
+      "latin-ext",
+      "tamil"
+     ],
+     "variant": "500",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "noto-sans-tamil-v31-latin_latin-ext_tamil-600.ttf",
+     "family": "Noto Sans Tamil SemiBold",
+     "slug": "noto-sans-tamil",
+     "subsets": [
+      "latin",
+      "latin-ext",
+      "tamil"
+     ],
+     "variant": "600",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "noto-sans-tamil-v31-latin_latin-ext_tamil-700.ttf",
+     "family": "Noto Sans Tamil",
+     "slug": "noto-sans-tamil",
+     "subsets": [
+      "latin",
+      "latin-ext",
+      "tamil"
+     ],
+     "variant": "700",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "noto-sans-telugu-v30-latin_latin-ext_telugu-200.ttf",
+     "family": "Noto Sans Telugu ExtraLight",
+     "slug": "noto-sans-telugu",
+     "subsets": [
+      "latin",
+      "latin-ext",
+      "telugu"
+     ],
+     "variant": "200",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "noto-sans-telugu-v30-latin_latin-ext_telugu-500.ttf",
+     "family": "Noto Sans Telugu Medium",
+     "slug": "noto-sans-telugu",
+     "subsets": [
+      "latin",
+      "latin-ext",
+      "telugu"
+     ],
+     "variant": "500",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "noto-sans-telugu-v30-latin_latin-ext_telugu-600.ttf",
+     "family": "Noto Sans Telugu SemiBold",
+     "slug": "noto-sans-telugu",
+     "subsets": [
+      "latin",
+      "latin-ext",
+      "telugu"
+     ],
+     "variant": "600",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "noto-sans-telugu-v30-latin_latin-ext_telugu-700.ttf",
+     "family": "Noto Sans Telugu",
+     "slug": "noto-sans-telugu",
+     "subsets": [
+      "latin",
+      "latin-ext",
+      "telugu"
+     ],
+     "variant": "700",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "noto-sans-thaana-v26-latin_latin-ext-100.ttf",
+     "family": "Noto Sans Thaana Thin",
+     "slug": "noto-sans-thaana",
+     "subsets": [
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "100",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "noto-sans-thaana-v26-latin_latin-ext-200.ttf",
+     "family": "Noto Sans Thaana ExtraLight",
+     "slug": "noto-sans-thaana",
+     "subsets": [
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "200",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "noto-sans-thaana-v26-latin_latin-ext-300.ttf",
+     "family": "Noto Sans Thaana Light",
+     "slug": "noto-sans-thaana",
+     "subsets": [
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "300",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "noto-sans-thaana-v26-latin_latin-ext-500.ttf",
+     "family": "Noto Sans Thaana Medium",
+     "slug": "noto-sans-thaana",
+     "subsets": [
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "500",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "noto-sans-thaana-v26-latin_latin-ext-700.ttf",
+     "family": "Noto Sans Thaana",
+     "slug": "noto-sans-thaana",
+     "subsets": [
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "700",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "noto-sans-thaana-v26-latin_latin-ext-regular.ttf",
+     "family": "Noto Sans Thaana",
+     "slug": "noto-sans-thaana",
+     "subsets": [
+      "latin",
+      "latin-ext"
+     ],
+     "variant": "regular",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "noto-sans-thai-v29-latin_latin-ext_thai-100.ttf",
+     "family": "Noto Sans Thai Thin",
+     "slug": "noto-sans-thai",
+     "subsets": [
+      "latin",
+      "latin-ext",
+      "thai"
+     ],
+     "variant": "100",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "noto-sans-thai-v29-latin_latin-ext_thai-300.ttf",
+     "family": "Noto Sans Thai Light",
+     "slug": "noto-sans-thai",
+     "subsets": [
+      "latin",
+      "latin-ext",
+      "thai"
+     ],
+     "variant": "300",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "noto-sans-thai-v29-latin_latin-ext_thai-500.ttf",
+     "family": "Noto Sans Thai Medium",
+     "slug": "noto-sans-thai",
+     "subsets": [
+      "latin",
+      "latin-ext",
+      "thai"
+     ],
+     "variant": "500",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "noto-sans-thai-v29-latin_latin-ext_thai-600.ttf",
+     "family": "Noto Sans Thai SemiBold",
+     "slug": "noto-sans-thai",
+     "subsets": [
+      "latin",
+      "latin-ext",
+      "thai"
+     ],
+     "variant": "600",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "noto-sans-thai-v29-latin_latin-ext_thai-700.ttf",
+     "family": "Noto Sans Thai",
+     "slug": "noto-sans-thai",
+     "subsets": [
+      "latin",
+      "latin-ext",
+      "thai"
+     ],
+     "variant": "700",
+     "license_url": "https://scripts.sil.org/OFL"
+    },
+    {
+     "file": "noto-sans-thai-v29-latin_latin-ext_thai-regular.ttf",
+     "family": "Noto Sans Thai",
+     "slug": "noto-sans-thai",
+     "subsets": [
+      "latin",
+      "latin-ext",
+      "thai"
+     ],
+     "variant": "regular",
+     "license_url": "https://scripts.sil.org/OFL"
+    }
+   ]
+  }
+ }
+}

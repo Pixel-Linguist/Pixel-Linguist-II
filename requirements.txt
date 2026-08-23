@@ -1,0 +1,11 @@
+accelerate==1.6.0
+datasets==2.16.0
+deepspeed==0.14.4
+fire
+fonttools
+huggingface-hub==0.36.0
+numpy==1.26.3
+pillow
+tokenizers==0.22.1
+torch==2.7.0
+transformers==4.57.1
