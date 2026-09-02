@@ -45,8 +45,9 @@ if LOCAL_DATA_ROOT:
             )
 
 for model_name in [
-    "pixel-linguist-2-pretrain",
-    "pixel-linguist-2-midtrain",
+    "Pixel-Linguist-II-Pretrain",
+    "Pixel-Linguist-II-Midtrain",
+    "Pixel-Linguist-II-Midtrain-Only",
 ]:
 
     model = get_model(model_name)
