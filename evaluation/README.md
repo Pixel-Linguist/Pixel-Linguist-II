@@ -36,15 +36,18 @@ Results are written as one JSON per task under `./mieb-results/<model>/<revision
 
 ## Options
 
-Weights are pulled from the Hub by default —
-[`ychaohao/pixel-linguist-2-pretrain`](https://huggingface.co/ychaohao/pixel-linguist-2-pretrain)
-and
-[`ychaohao/pixel-linguist-2-midtrain`](https://huggingface.co/ychaohao/pixel-linguist-2-midtrain).
-To evaluate a local checkpoint instead:
+Weights are pulled from the organization Hub repositories by default:
+
+- [`Pixel-Linguist-II-Pretrain`](https://huggingface.co/Pixel-Linguist/Pixel-Linguist-II-Pretrain)
+- [`Pixel-Linguist-II-Midtrain`](https://huggingface.co/Pixel-Linguist/Pixel-Linguist-II-Midtrain)
+- [`Pixel-Linguist-II-Midtrain-Only`](https://huggingface.co/Pixel-Linguist/Pixel-Linguist-II-Midtrain-Only)
+
+To evaluate local checkpoints instead:
 
 ```bash
 export PIXEL_LINGUIST_2_PRETRAIN=/path/to/pretrain-checkpoint
 export PIXEL_LINGUIST_2_MIDTRAIN=/path/to/midtrain-checkpoint
+export PIXEL_LINGUIST_2_MIDTRAIN_ONLY=/path/to/midtrain-only-checkpoint
 ```
 
 If the MIEB datasets are already mirrored locally, set `MIEB_DATA_ROOT` to that
