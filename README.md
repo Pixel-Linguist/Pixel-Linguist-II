@@ -13,11 +13,12 @@ two-stage multilingual curriculum totalling 280M examples seen.
 
 | Model | Stage |
 |---|---|
-| [`ychaohao/pixel-linguist-2-pretrain`](https://huggingface.co/ychaohao/pixel-linguist-2-pretrain) | End of Stage 1 (foundational pretraining) |
-| [`ychaohao/pixel-linguist-2-midtrain`](https://huggingface.co/ychaohao/pixel-linguist-2-midtrain) | Stage 1 + Stage 2 — the main released model |
+| [`Pixel-Linguist/Pixel-Linguist-II-Pretrain`](https://huggingface.co/Pixel-Linguist/Pixel-Linguist-II-Pretrain) | End of Stage 1 (foundational pretraining) |
+| [`Pixel-Linguist/Pixel-Linguist-II-Midtrain`](https://huggingface.co/Pixel-Linguist/Pixel-Linguist-II-Midtrain) | Stage 1 + Stage 2 — the full curriculum |
+| [`Pixel-Linguist/Pixel-Linguist-II-Midtrain-Only`](https://huggingface.co/Pixel-Linguist/Pixel-Linguist-II-Midtrain-Only) | Stage 2 only — the paper's headline English STS and ViDoRe model |
 
-Both are collected in the
-[PIXEL LINGUIST II collection](https://huggingface.co/collections/ychaohao/pixel-linguist-ii-6a8b379ecd22fe9f68f66c56).
+The three models are collected in the private
+[PIXEL LINGUIST II collection](https://huggingface.co/collections/Pixel-Linguist/pixel-linguist-ii-6a9873c0612d5bc1d82f8b35).
 Each repository carries a usage snippet; the short version is:
 
 ```python
@@ -27,7 +28,7 @@ from safetensors.torch import load_file
 from transformers.models.qwen2_5_vl.modeling_qwen2_5_vl import Qwen2_5_VisionTransformerPretrainedModel
 from transformers.models.qwen2_5_vl.configuration_qwen2_5_vl import Qwen2_5_VLVisionConfig
 
-path = snapshot_download("ychaohao/pixel-linguist-2-midtrain")
+path = snapshot_download("Pixel-Linguist/Pixel-Linguist-II-Midtrain")
 config = Qwen2_5_VLVisionConfig(**json.load(open(f"{path}/config.json")))
 model = Qwen2_5_VisionTransformerPretrainedModel(config)
 model.load_state_dict(load_file(f"{path}/model.safetensors"), strict=True)
@@ -157,19 +158,19 @@ bash train_laion_text.sh
 
 ## Released checkpoints
 
-`setup_release.sh` writes these to `ckpt_export/`:
-
-| Release name | Stage | Training steps |
+| Release | Stage | Training steps |
 |---|---|---|
-| [`pixel-linguist-2-pretrain`](https://huggingface.co/ychaohao/pixel-linguist-2-pretrain) | End of Stage 1 | 5314 (2 epochs) |
-| [`pixel-linguist-2-midtrain`](https://huggingface.co/ychaohao/pixel-linguist-2-midtrain) | Stage 1 + Stage 2 — the model behind the paper's "pre-training + mid-training" results | 2400 |
+| [`Pixel-Linguist-II-Pretrain`](https://huggingface.co/Pixel-Linguist/Pixel-Linguist-II-Pretrain) | End of Stage 1 | 5314 (2 epochs) |
+| [`Pixel-Linguist-II-Midtrain`](https://huggingface.co/Pixel-Linguist/Pixel-Linguist-II-Midtrain) | Stage 1 + Stage 2 — the model behind the paper's "pre-training + mid-training" results | 2400 |
+| [`Pixel-Linguist-II-Midtrain-Only`](https://huggingface.co/Pixel-Linguist/Pixel-Linguist-II-Midtrain-Only) | Stage 2 only — the paper's "mid-training only" results | 3192 (2 epochs) |
 
-Each export contains only `model.safetensors`, `config.json` and
-`preprocessor_config.json` — optimizer shards, RNG states and trainer state are
-dropped, so an export is ~1.3GB rather than ~20GB.
+Each repository contains only `model.safetensors`, `config.json` and
+`preprocessor_config.json` plus its model card — optimizer shards, RNG states
+and trainer state are dropped, so a release is ~1.3GB rather than ~20GB.
 
-Stage 2 ran for 3192 steps in total, but the numbers reported in the paper come
-from the step-2400 save, so that is what is released here.
+The full Stage 1 + Stage 2 run continued to step 3192, but the numbers reported
+in the paper come from its step-2400 save, so that is the checkpoint released as
+`Pixel-Linguist-II-Midtrain`.
 
 ## Reproducing the paper tables
 
@@ -178,27 +179,24 @@ See `evaluation/README.md` for the full evaluation flow. In short:
 ```bash
 cd evaluation
 export PIXEL_FONTS_DIR=/path/to/font_lib
-python run-mieb-lite.py                 # evaluates both released checkpoints
+python run-mieb-lite.py                 # evaluates the three released checkpoints
 python paper_results/collect_results.py # tabulate scores
 ```
 
-`evaluation/paper_results/` holds the scores behind the paper's numbers for the
-two released checkpoints:
+`evaluation/paper_results/` bundles the score JSONs for two checkpoints:
 
 | Directory | Paper row |
 |---|---|
 | `pixel-linguist-2-pretrain` | Stage 1 only |
 | `pixel-linguist-2-midtrain` | PL II (pre-training + mid-training) |
 
-The paper additionally reports a "mid-training only" variant, the AllNLI
-finetuned variants, and the raw Qwen2.5-ViT backbone; those checkpoints are not
-released, so their scores are not included here. The finetuned variants can be
-reproduced with `train_finetuning_final.sh`, and "mid-training only" by pointing
-`BASE_MODEL` in `train_laion_text.sh` at the raw ViT instead of the Stage 1
-output. The controlled ablations of Section 2 are not part of this release.
-
-Note that the paper's ViDoRe average uses 6 of the 10 subsets (DocVQA, InfoVQA,
-ShiftProject, SyntheticDocQA-AI, Tabfquad, Tatdqa).
+The third released checkpoint,
+[`Pixel-Linguist-II-Midtrain-Only`](https://huggingface.co/Pixel-Linguist/Pixel-Linguist-II-Midtrain-Only),
+provides the paper's "mid-training only" model; point `BASE_MODEL` in
+`train_laion_text.sh` at the raw ViT to reproduce its training. The AllNLI
+finetuned variants can be reproduced with `train_finetuning_final.sh`. Their
+score JSONs, the raw Qwen2.5-ViT backbone results, and the controlled ablations
+of Section 2 are not bundled in this three-model release.
 
 ## Citation
 
