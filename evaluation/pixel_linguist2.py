@@ -495,8 +495,18 @@ class Qwen2_5_VL_ViT_Wrapper1:
         return probs
 
 # Released checkpoints. Local directories also work in place of the repo ids.
-PRETRAIN_MODEL = os.environ.get("PIXEL_LINGUIST_2_PRETRAIN", "ychaohao/pixel-linguist-2-pretrain")
-MIDTRAIN_MODEL = os.environ.get("PIXEL_LINGUIST_2_MIDTRAIN", "ychaohao/pixel-linguist-2-midtrain")
+PRETRAIN_MODEL = os.environ.get(
+    "PIXEL_LINGUIST_2_PRETRAIN",
+    "Pixel-Linguist/Pixel-Linguist-II-Pretrain",
+)
+MIDTRAIN_MODEL = os.environ.get(
+    "PIXEL_LINGUIST_2_MIDTRAIN",
+    "Pixel-Linguist/Pixel-Linguist-II-Midtrain",
+)
+MIDTRAIN_ONLY_MODEL = os.environ.get(
+    "PIXEL_LINGUIST_2_MIDTRAIN_ONLY",
+    "Pixel-Linguist/Pixel-Linguist-II-Midtrain-Only",
+)
 
 _COMMON = dict(
     languages=["eng_Latn"],
@@ -518,23 +528,32 @@ _COMMON = dict(
 
 pixel_linguist_2_pretrain = ModelMeta(
     loader=partial(Qwen2_5_VL_ViT_Wrapper1, model_path=PRETRAIN_MODEL),
-    name="pixel-linguist-2-pretrain",
+    name="Pixel-Linguist-II-Pretrain",
     release_date="2026-01-03",
-    reference="https://huggingface.co/ychaohao/pixel-linguist-2-pretrain",
+    reference="https://huggingface.co/Pixel-Linguist/Pixel-Linguist-II-Pretrain",
     **_COMMON,
 )
 
 pixel_linguist_2_midtrain = ModelMeta(
     loader=partial(Qwen2_5_VL_ViT_Wrapper1, model_path=MIDTRAIN_MODEL),
-    name="pixel-linguist-2-midtrain",
+    name="Pixel-Linguist-II-Midtrain",
     release_date="2026-01-03",
-    reference="https://huggingface.co/ychaohao/pixel-linguist-2-midtrain",
+    reference="https://huggingface.co/Pixel-Linguist/Pixel-Linguist-II-Midtrain",
+    **_COMMON,
+)
+
+pixel_linguist_2_midtrain_only = ModelMeta(
+    loader=partial(Qwen2_5_VL_ViT_Wrapper1, model_path=MIDTRAIN_ONLY_MODEL),
+    name="Pixel-Linguist-II-Midtrain-Only",
+    release_date="2026-01-03",
+    reference="https://huggingface.co/Pixel-Linguist/Pixel-Linguist-II-Midtrain-Only",
     **_COMMON,
 )
 
 MODELS = {
-    "pixel-linguist-2-pretrain": pixel_linguist_2_pretrain,
-    "pixel-linguist-2-midtrain": pixel_linguist_2_midtrain,
+    "Pixel-Linguist-II-Pretrain": pixel_linguist_2_pretrain,
+    "Pixel-Linguist-II-Midtrain": pixel_linguist_2_midtrain,
+    "Pixel-Linguist-II-Midtrain-Only": pixel_linguist_2_midtrain_only,
 }
 
 
