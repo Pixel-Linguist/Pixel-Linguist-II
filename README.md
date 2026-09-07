@@ -201,11 +201,10 @@ of Section 2 are not bundled in this three-model release.
 ## Citation
 
 ```bibtex
-@inproceedings{yuan2026pixel,
-  title     = {On the Design Fundamentals of Pixel Text Representation Learning},
-  author    = {Yuan, Chaohao and Yuan, Ruifeng and Huang, Zhuoxu and Rong, Yu and
-               Cheng, Hong and Chan, Hou Pong and Xiao, Chenghao},
-  booktitle = {Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP)},
-  year      = {2026}
+@article{yuan2026design,
+  title={On the Design Fundamentals of Pixel Text Representation Learning},
+  author={Yuan, Chaohao and Yuan, Ruifeng and Huang, Zhuoxu and Rong, Yu and Cheng, Hong and Chan, Hou Pong and Xiao, Chenghao},
+  journal={arXiv preprint arXiv:2609.01147},
+  year={2026}
 }
 ```
